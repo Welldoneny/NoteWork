@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\Work\C#\FlatDesign\FlatDesign\bin\Debug\FlatDesign.exe.config
+C:\Users\Admin\Desktop\Work\C#\FlatDesign\FlatDesign\bin\Debug\FlatDesign.exe
+C:\Users\Admin\Desktop\Work\C#\FlatDesign\FlatDesign\bin\Debug\FlatDesign.pdb
+C:\Users\Admin\Desktop\Work\C#\FlatDesign\FlatDesign\obj\Debug\FlatDesign.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Work\C#\FlatDesign\FlatDesign\obj\Debug\FlatDesign.NoteWork.resources
+C:\Users\Admin\Desktop\Work\C#\FlatDesign\FlatDesign\obj\Debug\FlatDesign.Properties.Resources.resources
+C:\Users\Admin\Desktop\Work\C#\FlatDesign\FlatDesign\obj\Debug\FlatDesign.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Work\C#\FlatDesign\FlatDesign\obj\Debug\FlatDesign.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Work\C#\FlatDesign\FlatDesign\obj\Debug\FlatDesign.exe
+C:\Users\Admin\Desktop\Work\C#\FlatDesign\FlatDesign\obj\Debug\FlatDesign.pdb
+C:\Users\Admin\Desktop\Work\C#\FlatDesign\FlatDesign\obj\Debug\FlatDesign.Form2.resources
+C:\Users\Admin\Desktop\Work\C#\FlatDesign\FlatDesign\obj\Debug\FlatDesign.csproj.SuggestedBindingRedirects.cache
